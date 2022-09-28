@@ -1,9 +1,10 @@
 comandos:
-  *para mirar el interior del archivo: dir 
+
+  -para mirar el interior del archivo: dir 
   
-  *para entrar en el archivo: cd
+  -para entrar en el archivo: cd
   
-  *para compilas: javac
+  -para compilas: javac
   
-  *para ejecutar: java
+  -para ejecutar: java
   
